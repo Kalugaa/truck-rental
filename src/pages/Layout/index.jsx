@@ -12,7 +12,7 @@ const Layout = () => {
                     <Link to="/favorites">Favorites</Link>
                 </Nav>
             </Header>
-            <Suspense  >      //* Дописати fallback на лоадер */
+            <Suspense loading={<div>Loading...</div>} >
                 <Outlet />
             </Suspense>
         </Container>
