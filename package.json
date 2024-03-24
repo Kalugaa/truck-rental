@@ -2,6 +2,7 @@
   "name": "truck-rental",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Kalugaa/truck-rental/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.2",
     "@testing-library/jest-dom": "^5.17.0",
