@@ -90,7 +90,7 @@ export const ReservationForm = () => {
             {errors.date && <ErrorMsg>{errors.date}</ErrorMsg>}
             <Calendar value={startDate} date={startDate} setDate={setStartDate} />
             {errors.comment && <ErrorMsg>{errors.comment}</ErrorMsg>}
-            <TextArea name="comment" placeholder="Comment" type="textarea" value={formData.comment} onChange={handleInputChange} required></TextArea>
+            <TextArea name="comment" placeholder="Comment" type="textarea" value={formData.comment} onChange={handleInputChange}></TextArea>
             <SubmitButton type="submit">Submit</SubmitButton>
         </Form>
     );
