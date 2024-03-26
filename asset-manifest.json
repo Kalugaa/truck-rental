@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/truck-rental/static/css/main.85e34297.css",
-    "main.js": "/truck-rental/static/js/main.bdc83f51.js",
+    "main.js": "/truck-rental/static/js/main.723b9a49.js",
     "static/js/740.29076d52.chunk.js": "/truck-rental/static/js/740.29076d52.chunk.js",
     "static/css/336.788535f3.chunk.css": "/truck-rental/static/css/336.788535f3.chunk.css",
     "static/js/336.23b76f7a.chunk.js": "/truck-rental/static/js/336.23b76f7a.chunk.js",
     "static/css/196.788535f3.chunk.css": "/truck-rental/static/css/196.788535f3.chunk.css",
-    "static/js/196.94068ade.chunk.js": "/truck-rental/static/js/196.94068ade.chunk.js",
+    "static/js/196.1b215c90.chunk.js": "/truck-rental/static/js/196.1b215c90.chunk.js",
     "static/css/587.04e75404.chunk.css": "/truck-rental/static/css/587.04e75404.chunk.css",
     "static/js/587.a1dcbf36.chunk.js": "/truck-rental/static/js/587.a1dcbf36.chunk.js",
     "static/js/265.acb6bf46.chunk.js": "/truck-rental/static/js/265.acb6bf46.chunk.js",
@@ -17,18 +17,18 @@
     "static/media/sprite.svg": "/truck-rental/static/media/sprite.0c1cedf44ed984098bdcd77dac91ee2f.svg",
     "index.html": "/truck-rental/index.html",
     "main.85e34297.css.map": "/truck-rental/static/css/main.85e34297.css.map",
-    "main.bdc83f51.js.map": "/truck-rental/static/js/main.bdc83f51.js.map",
+    "main.723b9a49.js.map": "/truck-rental/static/js/main.723b9a49.js.map",
     "740.29076d52.chunk.js.map": "/truck-rental/static/js/740.29076d52.chunk.js.map",
     "336.788535f3.chunk.css.map": "/truck-rental/static/css/336.788535f3.chunk.css.map",
     "336.23b76f7a.chunk.js.map": "/truck-rental/static/js/336.23b76f7a.chunk.js.map",
     "196.788535f3.chunk.css.map": "/truck-rental/static/css/196.788535f3.chunk.css.map",
-    "196.94068ade.chunk.js.map": "/truck-rental/static/js/196.94068ade.chunk.js.map",
+    "196.1b215c90.chunk.js.map": "/truck-rental/static/js/196.1b215c90.chunk.js.map",
     "587.04e75404.chunk.css.map": "/truck-rental/static/css/587.04e75404.chunk.css.map",
     "587.a1dcbf36.chunk.js.map": "/truck-rental/static/js/587.a1dcbf36.chunk.js.map",
     "265.acb6bf46.chunk.js.map": "/truck-rental/static/js/265.acb6bf46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85e34297.css",
-    "static/js/main.bdc83f51.js"
+    "static/js/main.723b9a49.js"
   ]
 }
